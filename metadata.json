@@ -1,0 +1,6 @@
+{
+  "name": "쉬운 틀린그림찾기",
+  "description": "어르신과 실버 세대를 위한 쉽고 재미있는 두뇌 운동 틀린그림찾기 게임입니다. 크고 선명한 그림과 친절한 소리 안내가 진행됩니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
